@@ -7,7 +7,7 @@ let jiyeon = {
  role: 'FE',
  expertise: {
     frontend: {
-      stack: 'JS  React.js Next.js tailwind zustand TanStack Query react hook form',
+      stack: 'JS TS React.js Next.js tailwind zustand TanStack Query react hook form',
 
     },
 }
