@@ -1,9 +1,9 @@
-# 🙀 JIYEON
+# 🙀 JIYEON 
 <hr/>
 
 
 ```
-const JIEYON = {
+let jiyeon = {
  role: 'FE',
  expertise: {
     frontend: {
